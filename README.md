@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Marvel API APP
 
 In the project directory, you can run:
 
